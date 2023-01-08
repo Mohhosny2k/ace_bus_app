@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "680206372490",
+    "project_id": "acs-bus",
+    "storage_bucket": "acs-bus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680206372490:android:6210231e0c10f1139d6773",
+        "android_client_info": {
+          "package_name": "com.example.ace_bus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680206372490-ttak2fk7dcuua0lqm56h2a9igms3bcnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ace_bus",
+            "certificate_hash": "0e7a47d05a0f28e05aa2ec8c222dc1ebde762f20"
+          }
+        },
+        {
+          "client_id": "680206372490-li2867oahs7kp2ub6muqu7rmva8vbja7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsadJGRUtdd2vliJ-ljOT8RblNP0oqFPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680206372490-li2867oahs7kp2ub6muqu7rmva8vbja7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
